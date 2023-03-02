@@ -46,3 +46,29 @@ body{
     background: blue;
     color: white;
 }
+
+#section-a{
+    padding: 20px;
+    background: blue;
+    color: white;
+    text-align: center;
+
+}#section-b{
+    padding: 20px;
+    background: lightblue;
+    text-align: center;
+}
+
+#section-c{
+    display: flex;
+}
+
+#section-c div{
+    padding: 20px;
+}
+
+#section-c .box-1, #section-c .box-3{
+    background: blue;
+    color: white;
+}
+
